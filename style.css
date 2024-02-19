@@ -189,6 +189,7 @@ h1 {
         margin-left: 24px;
         margin-top: 20px;
         margin-bottom: 34px;
+        cursor: poiner;
     }
 }
 
@@ -276,6 +277,7 @@ h1 {
         margin-left: 32px;
         margin-top: 20px;
         margin-bottom: 34px;
+        cursor: poiner;
     }
 
     .image {
