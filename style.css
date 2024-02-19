@@ -236,6 +236,7 @@ h1 {
         row-gap: 16px;
         height: 160px;
         align-content: flex-start;
+        max-width: 1300px;
     }
 
     .swiper-wrapper-opened {
